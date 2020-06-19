@@ -1,6 +1,7 @@
 ---
 templateKey: 'about-page'
 path: /about
+image: /img/jumbotron.jpg
 title: About our values
 ---
 ### Shade-grown coffee
